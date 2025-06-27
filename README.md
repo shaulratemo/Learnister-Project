@@ -63,4 +63,4 @@ As part of the team, I led the **design of key user-facing pages** for the platf
 ![Aplication_Professional_Background Page](application-professional-background.png)
 ![Aplication_Mentorship_Relevance Page](application-mentorship-relevance.png)
 ![Aplication_Personal_Info Page](application-personal-info.png)
-![Aplication_Complete Page](application-complete.png)
+![Aplication_Complete_Page](application-complete-page.png)
