@@ -56,12 +56,11 @@ As part of the team, I led the **design of key user-facing pages** for the platf
 
 ## 📸 Design Previews
 
-- ![Home Page](home-page.png)
-- ![Courses Page](courses-page.png)
-- ![Community Page](community-page.png)
-- ![About Page](about-us-page.png)
-- ![Application Page](application-page.png)
-- ![Aplication_Professional_Background Page](application-professional-background.png)
-- ![Aplication_Mentorship_Relevance Page](application-mentorship-relevance.png)
-- ![Aplication_Personal_Info Page](application-personal-info.png)
-- ![Aplication_Complete Page](application-complete.png)
+![Home Page](home-page.png)
+![Courses Page](courses-page.png)
+![Community Page](community-page.png)
+![About Page](about-us-page.png)
+![Aplication_Professional_Background Page](application-professional-background.png)
+![Aplication_Mentorship_Relevance Page](application-mentorship-relevance.png)
+![Aplication_Personal_Info Page](application-personal-info.png)
+![Aplication_Complete Page](application-complete.png)
