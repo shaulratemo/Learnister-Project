@@ -56,9 +56,12 @@ As part of the team, I led the **design of key user-facing pages** for the platf
 
 ## 📸 Design Previews
 
-> _Add screenshots or link to your Figma project or portfolio page_
-
-- [View Design on Portfolio](https://sites.google.com/view/shaulra)
-- Or upload images in a `designs/` folder and embed like:
-  ```markdown
-  ![Landing Page](designs/landing-page.png)
+- ![Home Page](home-page.png)
+- ![Courses Page](courses-page.png)
+- ![Community Page](community-page.png)
+- ![About Page](about-us-page.png)
+- ![Application Page](application-page.png)
+- ![Aplication_Professional_Background Page](application-professional-background.png)
+- ![Aplication_Mentorship_Relevance Page](application-mentorship-relevance.png)
+- ![Aplication_Personal_Info Page](application-personal-info.png)
+- ![Aplication_Complete Page](application-complete.png)
